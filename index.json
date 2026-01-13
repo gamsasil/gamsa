@@ -18,9 +18,9 @@
     "description": "근로복지공단 보수규정"
   },
   {
-    "name": "보안업무시행규정.csv",
+    "name": "보안업무시행규정.txt",
     "aliases": ["보안"],
-    "raw_url": "https://raw.githubusercontent.com/gamsasil/gamsa/refs/heads/main/%EB%B3%B4%EC%95%88%EC%97%85%EB%AC%B4%EC%8B%9C%ED%96%89%EA%B7%9C%EC%A0%95.csv",
+    "raw_url": "https://raw.githubusercontent.com/gamsasil/gamsa/refs/heads/main/%EB%B3%B4%EC%95%88%EC%97%85%EB%AC%B4%EC%8B%9C%ED%96%89%EA%B7%9C%EC%A0%95.txt",
     "description": "근로복지공단 보안업무시행규정"
   },
   {
@@ -59,4 +59,5 @@
     "raw_url": "https://raw.githubusercontent.com/gamsasil/gamsa/refs/heads/main/%EC%B0%A8%EB%9F%89%EA%B4%80%EB%A6%AC%EC%84%B8%EC%B9%99.csv",
     "description": "근로복지공단 차량관리세칙"
   }
+
 ]
